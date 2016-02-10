@@ -1,0 +1,7 @@
+# IDE folders
+.idea/
+
+# Text files
+*.xml
+*.iml
+
